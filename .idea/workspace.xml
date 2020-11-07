@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e39c881-7947-43fe-9cfa-010f412716f5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1juh1uCCn1ek7qo8PVSDxGQMyzy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dockerFirstProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Docker.Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e39c881-7947-43fe-9cfa-010f412716f5" name="Default Changelist" comment="" />
+      <created>1604659672433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604659672433</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="439" y="23" key="#Dockerfile" timestamp="1604676489005">
+      <screen x="38" y="23" width="1242" height="777" />
+    </state>
+    <state x="439" y="23" key="#Dockerfile/38.23.1242.777/1280.-257.1920.1057@38.23.1242.777" timestamp="1604676489005" />
+    <state x="395" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604659734465">
+      <screen x="38" y="23" width="1242" height="777" />
+    </state>
+    <state x="395" y="221" key="#com.intellij.fileTypes.FileTypeChooser/38.23.1242.777/1280.-257.1920.1057@38.23.1242.777" timestamp="1604659734465" />
+    <state width="1221" height="197" key="GridCell.Tab.0.bottom" timestamp="1604680956292">
+      <screen x="38" y="23" width="1242" height="777" />
+    </state>
+    <state width="1221" height="197" key="GridCell.Tab.0.bottom/38.23.1242.777/1280.-257.1920.1057@38.23.1242.777" timestamp="1604680956292" />
+    <state width="1221" height="197" key="GridCell.Tab.0.center" timestamp="1604680956291">
+      <screen x="38" y="23" width="1242" height="777" />
+    </state>
+    <state width="1221" height="197" key="GridCell.Tab.0.center/38.23.1242.777/1280.-257.1920.1057@38.23.1242.777" timestamp="1604680956291" />
+    <state width="1221" height="197" key="GridCell.Tab.0.left" timestamp="1604680956290">
+      <screen x="38" y="23" width="1242" height="777" />
+    </state>
+    <state width="1221" height="197" key="GridCell.Tab.0.left/38.23.1242.777/1280.-257.1920.1057@38.23.1242.777" timestamp="1604680956290" />
+    <state width="1221" height="197" key="GridCell.Tab.0.right" timestamp="1604680956291">
+      <screen x="38" y="23" width="1242" height="777" />
+    </state>
+    <state width="1221" height="197" key="GridCell.Tab.0.right/38.23.1242.777/1280.-257.1920.1057@38.23.1242.777" timestamp="1604680956291" />
+    <state x="251" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1604679376491">
+      <screen x="38" y="23" width="1242" height="777" />
+    </state>
+    <state x="251" y="244" key="com.intellij.ide.util.TipDialog/38.23.1242.777/1280.-257.1920.1057@38.23.1242.777" timestamp="1604679376491" />
+  </component>
+</project>
